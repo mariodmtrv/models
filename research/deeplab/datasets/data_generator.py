@@ -69,7 +69,7 @@ DatasetDescriptor = collections.namedtuple(
     ])
 
 _CITYSCAPES_INFORMATION = DatasetDescriptor(
-    splits_to_sizes={'train_fine': 2975,
+    splits_to_sizes={'train': 2975,
                      'train_coarse': 22973,
                      'trainval_fine': 3475,
                      'trainval_coarse': 23473,
