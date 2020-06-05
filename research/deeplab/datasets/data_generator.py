@@ -73,7 +73,7 @@ _CITYSCAPES_INFORMATION = DatasetDescriptor(
                      'train_coarse': 22973,
                      'trainval_fine': 3475,
                      'trainval_coarse': 23473,
-                     'val_fine': 500,
+                     'val': 500,
                      'test_fine': 1525},
     num_classes=19,
     ignore_label=255,
